@@ -1,7 +1,7 @@
 ## Welcome to my little page! 
 ![keyboardthingy banner](https://github.com/user-attachments/assets/a4b86382-4f32-4def-b6a8-2aa32fd073ca)
 
-Hi, hi!! I'm **Emi**, currently studying at Blekinge Institute of Technology 🌻
+Hi, hi!! I'm **eagul**, currently studying some graphic design and coding courses 🌻
 
 > 🌱 **Pronouns:** she/they
 
@@ -9,7 +9,7 @@ I'm super interested in ui & ux design, coding as well as design and art in gene
 
 <hr />
 
-  - 🌿 I’m currently working on the basic of basics! Doing school assignments and some personal projects
+  - 🌿 I’m currently working on the basic of basics! Creating a bunch of random personal projects that never see the light of day!
   - 🍁 I’m currently learning JS
 
 Skills: \
